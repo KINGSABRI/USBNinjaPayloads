@@ -2,7 +2,7 @@
 Author:
   USB Ninja | @CC0126
 Description:
-  This script is a clone from BLERemoteKeyboard.ino default example
+  This script is a clone from BLERemoteMouse.ino default example
       
   https://www.usbninja.com/
   This is the Code of Using Bluetooth remote control triggers Ninja to go
