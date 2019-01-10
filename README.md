@@ -1,5 +1,5 @@
 # USBNinjaPayloads
-A centralized place to collect USB Ninja payloads inspired by BashBunny repository.
+A centralized place to collect [USB Ninja](https://github.com/USBNinjaRRG/USBNinja) payloads inspired by BashBunny repository.
 
 ## Contributing
 1. Fork it ( https://github.com/KINGSABRI/USBNinjaPayloads/fork )
